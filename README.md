@@ -1,2 +1,5 @@
 # 52problem
-Hi it's me.
+This a solved problems from 52 problem
+by Subin Sahreer.
+
+
