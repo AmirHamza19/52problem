@@ -135,18 +135,7 @@
 //         }
 //     return 0;
 // }
-
-// Problem -6-
-
-// int main()
-// {
-//     int  i, T;
-//         scanf("%d", &T);
-//     for ( i = 1; i <= T; i++)
-//         {
-//             whil
-//         }
-// }
+
 
 // Problem -08 - solved
 
